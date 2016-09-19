@@ -1,0 +1,23 @@
+li{display: inline-block; margin: 4px;}
+nav a{padding: 4px; border: 1px dotted red; border-radius: 10px; background: #639; color: pink; text-decoration: none;}
+nav a:Hover{padding: 10px; border: 1px solid black; border-radius: 20px; background: red; color: purple; text-decoration: none;}
+li:hover{display: inline-block; margin: 4px; transform:translate(40px,40px); transition:4s;}
+
+body{ width:90%;
+        margin:auto;
+		background-color:#F00;
+		}
+
+article{ float:left; 
+          border:2px solid black;
+		   background:cyan;
+		    color:green; 
+			padding:10px; 
+			margin:5px;
+			 width:600px;
+			 }
+
+
+h1{font-family:"Comic Sans MS", cursive;
+font-size:50px;
+}
